@@ -1,4 +1,4 @@
-## Hi 👋, I'm Sponsoparnordvpn aka sponso 
+## 👋 Introduction
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+sponso's+profile;I+am+a+Luau+developer;I+am+a+Fullstack+developer)](https://git.io/typing-svg)
 
