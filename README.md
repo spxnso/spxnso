@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Hi 👋, I'm Sponsoparnordvpn aka sponso 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+sponso's+profile;I+am+a+Luau+developer;I+am+a+Fullstack+developer)](https://git.io/typing-svg)
@@ -24,5 +22,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
