@@ -1,5 +1,5 @@
 ## 👋 Introduction
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+<img align='right' src='https://media1.giphy.com/media/PnrgGSqWqgHVU53JbH/200w.webp?cid=6c09b952kozx0pmozwzruo8jtcfgeh5l0rdlaxu48ii326g5&ep=v1_internal_gif_by_id&rid=200w.webp&ct=g' width='200'>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+sponso's+profile;I+am+a+Luau+developer;I+am+a+Fullstack+developer)](https://git.io/typing-svg)
 
 <!--
