@@ -1,7 +1,6 @@
 ## 👋 Introduction
 <img align='right' src='https://i.pinimg.com/originals/b3/85/69/b385694f382ef98190040916c0efdda1.gif' width='200'>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+sponso's+profile;I+am+a+Luau+developer;I+am+a+Fullstack+developer)](https://git.io/typing-svg)
-
+lorem ipsul
 <!--
 **Sponsoparnordvpn/Sponsoparnordvpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
