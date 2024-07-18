@@ -46,13 +46,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/Sponsoparnordvpn/Sponsoparnordvpn/blob/output/github-contribution-grid-snake.gif)
-  
   <br/><br/><br/>
 </div>
 
 <hr/>
-
+![snake gif](https://github.com/Sponsoparnordvpn/Sponsoparnordvpn/blob/output/github-contribution-grid-snake.gif)
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
