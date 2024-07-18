@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **VM obfuscation, PostgresSQL**
 
-💬 Ask me about **Next.js, React, Luau... or anything
+💬 Ask me about **Next.js, React, Luau... or anything**
 
 ⚡ Fun fact **I love playing videos games**
  </div>
