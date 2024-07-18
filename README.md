@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,lua,nextjs,postgressql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,lua,nextjs,flask" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
