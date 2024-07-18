@@ -1,5 +1,5 @@
 ## 👋 Introduction
-<img align='right' src='https://i.pinimg.com/originals/b3/85/69/b385694f382ef98190040916c0efdda1.gif' width='200'>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 lorem ipsul
 
 
