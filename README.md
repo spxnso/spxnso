@@ -1,6 +1,4 @@
-## 👋 Introduction
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-lorem ipsul
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sponsoparnordvpn.Sponsoparnordvpn" />
 
 
 <picture>
