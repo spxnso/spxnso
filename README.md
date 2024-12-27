@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a luau VM obfuscator**
+ 🔭 I’m currently working on **nothing**
  
- 🌱 I’m currently learning **VM obfuscation, PostgresSQL**
+ 🌱 I’m currently learning **Obfuscation, OSINT and Ethical Hacking**
 
-💬 Ask me about **Next.js, React, Luau... or anything**
-
-⚡ Fun fact **I love playing videos games**
+💬 Ask me about **OSINT, Next.js, React, Luau... or anything**
  </div>
  
 <div align="center"> 
