@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **nothing**
+ 🔭 I’m currently working on **LBU**
  
- 🌱 I’m currently learning **Obfuscation, OSINT and Ethical Hacking**
+ 🌱 I’m currently learning **Obfuscation and Ethical Hacking**
 
 💬 Ask me about **OSINT, Next.js, React, Luau... or anything**
  </div>
