@@ -19,7 +19,7 @@ A student and aspiring cybersecurity engineer from France.
 
   A programming language built in Rust designed for mathematics
 
-  #### <img src="https://github.com/spxnso/crackmes.one/raw/master/assets/crackmes-logo.png" width="24" style="vertical-align: middle; margin-right: 8px;" />[crackmes.one](https://github.com/spxnso/crackmes.one)
+  #### 🔧 [crackmes.one](https://github.com/spxnso/crackmes.one)
 
   Personal solutions to public challenges hosted on crackmes.one.
 
@@ -30,24 +30,24 @@ A student and aspiring cybersecurity engineer from France.
   ### Languages
 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24" height="24" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24" />
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="24" height="24" />
   </a>
   <a href="https://www.lua.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="24" height="24" />
   </a>
   <a href="https://www.luau.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/luau-lang.png" alt="luau" width="40" height="40" />
+    <img src="https://github.com/luau-lang.png" alt="luau" width="24" height="24" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24" />
   </a>
 </details>
