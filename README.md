@@ -1,50 +1,53 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sponsoparnordvpn.Sponsoparnordvpn" />
+# Hello there! I'm [Evann Borde](https://github.com/spxnso) 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sponso!;" />
-</h1>
+A student and aspiring cybersecurity engineer from France.
 
-<h3 align="center">A passionate developer from France 🇫🇷</h3>
+<details>
+  <summary><strong>Overview</strong></summary>
 
-<br/>
+  ### Github Stats
 
-<div align="center">
- 
- 🔭 I’m currently working on **LBU**
- 
- 🌱 I’m currently learning **Obfuscation and Ethical Hacking**
+  [![spxnso's Github Stats](https://github-readme-stats.vercel.app/api?username=spxnso)](https://github.com/spxnso)
 
-💬 Ask me about **OSINT, Next.js, React, Luau... or anything**
- </div>
- 
-<div align="center"> 
-  <a href="mailto:sponsoparnordvpn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  ### What I do
+
+  I actively maintain and contribute to open-source projects, using them as a primary way to learn
+
+  ### Projects
+
+  #### 🧮 [spemath](https://github.com/spxnso/spemath)
+
+  A programming language built in Rust designed for mathematics
+
+  #### <img src="https://github.com/spxnso/crackmes.one/raw/master/assets/crackmes-logo.png" width="24" style="vertical-align: middle; margin-right: 8px;" />[crackmes.one](https://github.com/spxnso/crackmes.one)
+
+  Personal solutions to public challenges hosted on crackmes.one.
+
+  #### 🔍 fourier
+
+  An upcoming Luau decompiler written in Rust.
+
+  ### Languages
+
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   </a>
-  <a href="https://discordapp.com/users/1157544020143255614" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
-  <a href="https://spxnso.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,lua,nextjs,flask" /><br>
-</div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=spxnso&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=spxnso&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spxnso&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />
+  </a>
+  <a href="https://www.lua.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" />
+  </a>
+  <a href="https://www.luau.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/luau-lang.png" alt="luau" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  </a>
+</details>
