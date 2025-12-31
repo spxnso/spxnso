@@ -18,5 +18,6 @@ jobs:
         with:
           feed_list: "https://spxnso.dev/rss.xml"
           template: |
-            - **[$title]($url)**$newline
-                $description$newline
+            **[$title]($url)**$newline
+            $description$newline$newline
+
