@@ -30,7 +30,9 @@ A student and aspiring cybersecurity engineer from France.
   ### Latest posts
 
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [Configuring Continuous Integration &lpar;CI&rpar; for Lute projects](https://spxnso.dev/blog/rokit-and-lute-ci)
+- [Introducing my portfolio](https://spxnso.dev/blog/introducing-my-portfolio)
+<!-- BLOG-POST-LIST:END -->
 
   ### Languages
 
