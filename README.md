@@ -5,9 +5,9 @@ A student and aspiring cybersecurity engineer from France.
 <details>
   <summary><strong>Overview</strong></summary>
 
-  ### Github Stats
+  <!-- ### Github Stats
 
-  [![spxnso's Github Stats](https://github-readme-stats.vercel.app/api?username=spxnso)](https://github.com/spxnso)
+  [![spxnso's Github Stats](https://github-readme-stats.vercel.app/api?username=spxnso)](https://github.com/spxnso) -->
 
   ### What I do
 
@@ -26,6 +26,11 @@ A student and aspiring cybersecurity engineer from France.
   #### 🔍 fourier
 
   An upcoming Luau decompiler written in Rust.
+
+  ### Latest posts
+
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 
   ### Languages
 
