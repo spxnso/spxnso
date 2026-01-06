@@ -30,6 +30,12 @@ A student and aspiring cybersecurity engineer from France.
   ### Latest posts
 
   <!-- BLOG-POST-LIST:START -->
+**[Understanding Luau Bytecode Structure - Part 1](https://spxnso.dev/blog/understanding-luau-bytecode-structure-part-1)**
+
+>Overview of how Luau represents programs at the bytecode level and how the virtual machine executes them.
+
+
+
 **[Configuring Continuous Integration &lpar;CI&rpar; for Lute projects](https://spxnso.dev/blog/rokit-and-lute-ci)**
 
 >Learn how to configure CI for Lute projects
