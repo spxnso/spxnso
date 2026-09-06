@@ -32,20 +32,7 @@ A student and aspiring cybersecurity engineer from France.
   <!-- BLOG-POST-LIST:START -->
 **[Hello, world](https://spxnso.fr/posts/hello-world/)**
 
->&lt;p&gt;Hi. This is the third time I&#39;ve rewritten my portfolio. To be honest, I&#39;m tired of all the Next.js ecosystem slop.&lt;/p&gt;
-&lt;p&gt;This new website uses &lt;a rel=&quot;external&quot; href=&quot;https://getzola.dev&quot;&gt;Zola&lt;/a&gt;, a static site generator. The &lt;a rel=&quot;external&quot; href=&quot;https://github.com/spxnso/umbra&quot;&gt;theme&lt;/a&gt; I used is made by me and is open-source, feel free to check it out.&lt;/p&gt;
-&lt;p&gt;Everything here is licensed under CC BY 4.0.&lt;/p&gt;
-&lt;p&gt;If you like it, feel free to send me an email at &lt;a href=&quot;mailto:evann.borde@spxnso.fr&quot;&gt;evann.borde@spxnso.fr&lt;/a&gt; &lpar;please sign your message with my &lt;a rel=&quot;external&quot; href=&quot;https://spxnso.fr/.well-known/pgp-key.txt&quot;&gt;PGP key&lt;/a&gt;&rpar;.&lt;/p&gt;
-&lt;h2 id=&quot;why-zola&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#why-zola&quot; aria-label=&quot;Anchor link for: why-zola&quot;&gt;Why Zola?&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I&#39;ve tried Next.js, and even a brief &lpar;regrettable&rpar; stint with a headless CMS. To be honest, I was tired of updating all the dependencies every week thanks to the awesome Next.js exploits &lpar;HM: react2shell&rpar;.&lt;/p&gt;
-&lt;p&gt;Zola was the answer to my problem. It&#39;s a single binary, written in Rust, that takes markdown files and spits out HTML. No npm, no slop. It just works, and it&#39;s fast.&lt;/p&gt;
-&lt;h2 id=&quot;honorable-mentions&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#honorable-mentions&quot; aria-label=&quot;Anchor link for: honorable-mentions&quot;&gt;Honorable mentions&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/spxnso/oldfolio&quot;&gt;Portfolio V1&lt;/a&gt;: Poor codebase and was pretty much my first nextjs experiment.&lt;/p&gt;
-&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/spxnso/portfolio&quot;&gt;Portfolio V2&lt;/a&gt;: Used a CMS 🤮&lt;/p&gt;
-&lt;h2 id=&quot;what-s-next&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-s-next&quot; aria-label=&quot;Anchor link for: what-s-next&quot;&gt;What&#39;s next&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I&#39;ll probably write a bit more about my experience and self-hosting. Beyond that, maybe some write-ups on projects once they&#39;re in a state worth sharing.&lt;/p&gt;
-&lt;p&gt;Thanks for reading this far. See you around.&lt;/p&gt;
-
+>Yet again another portfolio. But, why?
 
 
 <!-- BLOG-POST-LIST:END -->
