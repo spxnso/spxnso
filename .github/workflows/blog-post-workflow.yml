@@ -16,9 +16,9 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://spxnso.dev/rss.xml"
+          feed_list: "https://spxnso.fr/atom.xml"
+          max_post_content: 200
           template: |
             $newline**[$title]($url)**$newline
             >$description
             $newline$newline
-
